@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+//This strategy pattern is used to sort arrays
+
 func main() {
 	arr := []int{7, 6, 5, 4, 3, 2, 1}
 
